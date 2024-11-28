@@ -1,0 +1,18 @@
+Category,sub_category,total_order_quantity,total_profit,total_amount
+Clothing,Saree,782,352,53511
+Clothing,Hankerchief,754,2098,14608
+Clothing,Stole,671,2559,18546
+Furniture,Furnishings,310,844,13484
+Clothing,T-shirt,305,1500,7382
+Electronics,Phones,304,2207,46119
+Furniture,Bookcases,297,4888,56861
+Electronics,"Electronic Games",297,-1236,39168
+Electronics,Printers,291,5964,58252
+Furniture,Chairs,277,577,34222
+Clothing,Shirt,271,1131,7555
+Electronics,Accessories,262,3559,21728
+Clothing,Skirt,248,235,1946
+Clothing,Leggings,186,260,2106
+Clothing,Kurti,164,181,3361
+Clothing,Trousers,135,2847,30039
+Furniture,Tables,61,-4011,22614
